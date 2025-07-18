@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      pkp27ec086
+HostName                       vlsi28.kletech.ac.in
+ProcessIdentifier              10044
+ProcessCreationTime_UTC        1752817782
+ProcessCreationTime_Readable   Fri Jul 18 11:19:42 2025 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/pkp27ec086/Prakalp/5pack/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Jul 18 11:55:05 2025 IST
